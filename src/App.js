@@ -13,12 +13,11 @@ import Register from './pages/Register';
 
 function App() {
   return (
+    <BrowserRouter>
     <div className="App">
     <div className='gradient__bg'>
-    <BrowserRouter>
     <Header/>
     < Landing />
-    
     <Route exact path='/' element={<Home />}></Route>
     <Route path='/Services'  element={<Services />}></Route>
     <Route path='/Contact'  element={<Contact />}></Route>
@@ -26,9 +25,9 @@ function App() {
     <Route path='/Login'  element={<Login />}></Route>
     <Route path='/Register'  element={<Register />}></Route>
     <Footer />
+    </div>
+    </div>
     </BrowserRouter>
-    </div>
-    </div>
   );
 }
 

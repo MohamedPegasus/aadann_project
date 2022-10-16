@@ -65,6 +65,7 @@
     cursor: pointer;
     line-height: 25px;
     text-decoration: none;
+    margin-top: 2rem;
 }
 
 .gpt3__navbar-sign Button,

@@ -16,6 +16,7 @@ function App() {
   return (
     <Router>
     <Header/>
+    <dev className="gradient__bg" >
     < Landing />
     <Switch>
     <Route exact path='/aadann_project/' element={<Home />}></Route>
@@ -26,6 +27,7 @@ function App() {
     <Route path='/aadann_project/Register'  element={<Register />}></Route>
     </Switch>
     <Footer />
+    </dev>
     </Router>
   );
 }

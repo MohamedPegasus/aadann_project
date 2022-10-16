@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mohamedpegasus/aadann_project/static/css/main.d328e2fb.css",
-    "main.js": "/mohamedpegasus/aadann_project/static/js/main.cbb7ee81.js",
+    "main.js": "/mohamedpegasus/aadann_project/static/js/main.1ecb9e76.js",
     "static/js/787.71df535f.chunk.js": "/mohamedpegasus/aadann_project/static/js/787.71df535f.chunk.js",
     "static/media/possibility.png": "/mohamedpegasus/aadann_project/static/media/possibility.525f13b61a2157d44de0.png",
     "static/media/blog01.png": "/mohamedpegasus/aadann_project/static/media/blog01.cefc0932eae0d33a0342.png",
@@ -16,11 +16,11 @@
     "static/media/main.jpg": "/mohamedpegasus/aadann_project/static/media/main.c045b2840e954150f761.jpg",
     "index.html": "/mohamedpegasus/aadann_project/index.html",
     "main.d328e2fb.css.map": "/mohamedpegasus/aadann_project/static/css/main.d328e2fb.css.map",
-    "main.cbb7ee81.js.map": "/mohamedpegasus/aadann_project/static/js/main.cbb7ee81.js.map",
+    "main.1ecb9e76.js.map": "/mohamedpegasus/aadann_project/static/js/main.1ecb9e76.js.map",
     "787.71df535f.chunk.js.map": "/mohamedpegasus/aadann_project/static/js/787.71df535f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d328e2fb.css",
-    "static/js/main.cbb7ee81.js"
+    "static/js/main.1ecb9e76.js"
   ]
 }

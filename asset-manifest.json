@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/mohamedpegasus/aadann_project/static/css/main.d328e2fb.css",
-    "main.js": "/mohamedpegasus/aadann_project/static/js/main.1ecb9e76.js",
-    "static/js/787.71df535f.chunk.js": "/mohamedpegasus/aadann_project/static/js/787.71df535f.chunk.js",
-    "static/media/possibility.png": "/mohamedpegasus/aadann_project/static/media/possibility.525f13b61a2157d44de0.png",
-    "static/media/blog01.png": "/mohamedpegasus/aadann_project/static/media/blog01.cefc0932eae0d33a0342.png",
-    "static/media/pexels-xxss-is-back-777001 (1).jpg": "/mohamedpegasus/aadann_project/static/media/pexels-xxss-is-back-777001 (1).431f2679674b2be90cbd.jpg",
-    "static/media/lee-campbell-DtDlVpy-vvQ-unsplash.jpg": "/mohamedpegasus/aadann_project/static/media/lee-campbell-DtDlVpy-vvQ-unsplash.b51722100b952bb670f6.jpg",
-    "static/media/Title-Image-4_80465274aebb5.webp": "/mohamedpegasus/aadann_project/static/media/Title-Image-4_80465274aebb5.f0bfe209e756c56124a9.webp",
-    "static/media/web.jpg": "/mohamedpegasus/aadann_project/static/media/web.d6decbcab224e7c40290.jpg",
-    "static/media/webapp.png": "/mohamedpegasus/aadann_project/static/media/webapp.917c206e10a5c949f424.png",
-    "static/media/ecommerce.png": "/mohamedpegasus/aadann_project/static/media/ecommerce.86d20cfec6be958bdf59.png",
-    "static/media/people.png": "/mohamedpegasus/aadann_project/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/react.png": "/mohamedpegasus/aadann_project/static/media/react.581289b9c91fd811832c.png",
-    "static/media/main.jpg": "/mohamedpegasus/aadann_project/static/media/main.c045b2840e954150f761.jpg",
-    "index.html": "/mohamedpegasus/aadann_project/index.html",
-    "main.d328e2fb.css.map": "/mohamedpegasus/aadann_project/static/css/main.d328e2fb.css.map",
-    "main.1ecb9e76.js.map": "/mohamedpegasus/aadann_project/static/js/main.1ecb9e76.js.map",
-    "787.71df535f.chunk.js.map": "/mohamedpegasus/aadann_project/static/js/787.71df535f.chunk.js.map"
+    "main.css": "/aadann_project/static/css/main.98f41836.css",
+    "main.js": "/aadann_project/static/js/main.baff32d1.js",
+    "static/js/787.71df535f.chunk.js": "/aadann_project/static/js/787.71df535f.chunk.js",
+    "static/media/possibility.png": "/aadann_project/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/aadann_project/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/pexels-xxss-is-back-777001 (1).jpg": "/aadann_project/static/media/pexels-xxss-is-back-777001 (1).431f2679674b2be90cbd.jpg",
+    "static/media/lee-campbell-DtDlVpy-vvQ-unsplash.jpg": "/aadann_project/static/media/lee-campbell-DtDlVpy-vvQ-unsplash.b51722100b952bb670f6.jpg",
+    "static/media/Title-Image-4_80465274aebb5.webp": "/aadann_project/static/media/Title-Image-4_80465274aebb5.f0bfe209e756c56124a9.webp",
+    "static/media/web.jpg": "/aadann_project/static/media/web.d6decbcab224e7c40290.jpg",
+    "static/media/webapp.png": "/aadann_project/static/media/webapp.917c206e10a5c949f424.png",
+    "static/media/ecommerce.png": "/aadann_project/static/media/ecommerce.86d20cfec6be958bdf59.png",
+    "static/media/people.png": "/aadann_project/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/react.png": "/aadann_project/static/media/react.581289b9c91fd811832c.png",
+    "static/media/main.jpg": "/aadann_project/static/media/main.c045b2840e954150f761.jpg",
+    "index.html": "/aadann_project/index.html",
+    "main.98f41836.css.map": "/aadann_project/static/css/main.98f41836.css.map",
+    "main.baff32d1.js.map": "/aadann_project/static/js/main.baff32d1.js.map",
+    "787.71df535f.chunk.js.map": "/aadann_project/static/js/787.71df535f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d328e2fb.css",
-    "static/js/main.1ecb9e76.js"
+    "static/css/main.98f41836.css",
+    "static/js/main.baff32d1.js"
   ]
 }

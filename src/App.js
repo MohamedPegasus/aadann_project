@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import {BrowserRouter  , Routes, Route} from 'react-router-dom';
+import {BrowserRouter  , Routes , Route} from 'react-router-dom';
 import Header from './components/header/Header';
 import Landing from './components/landing/Landing';
 import Footer from './components/footer/Footer'
@@ -15,8 +15,6 @@ function App() {
   return (
     <BrowserRouter>
     <Header/>
-    <div className='gradient__bg'>
-    
     < Landing />
     <Route exact path='/aadann_project/' element={<Home />}></Route>
     <Route path='/aadann_project/Services'  element={<Services />}></Route>
@@ -25,7 +23,7 @@ function App() {
     <Route path='/aadann_project/Login'  element={<Login />}></Route>
     <Route path='/aadann_project/Register'  element={<Register />}></Route>
     <Footer />
-    </div>
+    
     </BrowserRouter>
   );
 }

@@ -16,18 +16,20 @@ function App() {
   return (
     <Router>
     <Header/>
-    <dev className="gradient__bg" >
-    < Landing />
-    <Switch>
-    <Route exact path='/aadann_project/' element={<Home />}></Route>
-    <Route path='/aadann_project/Services'  element={<Services />}></Route>
-    <Route path='/aadann_project/Contact'  element={<Contact />}></Route>
-    <Route path='/aadann_project/Blog'  element={<Blog />}></Route>
-    <Route path='/aadann_project/Login'  element={<Login />}></Route>
-    <Route path='/aadann_project/Register'  element={<Register />}></Route>
-    </Switch>
-    <Footer />
-    </dev>
+    <div className="App">
+      <div className='gradient__bg'>
+      < Landing />
+      <Switch>
+      <Route exact path='/aadann_project/' element={<Home />}></Route>
+      <Route path='/aadann_project/Services'  element={<Services />}></Route>
+      <Route path='/aadann_project/Contact'  element={<Contact />}></Route>
+      <Route path='/aadann_project/Blog'  element={<Blog />}></Route>
+      <Route path='/aadann_project/Login'  element={<Login />}></Route>
+      <Route path='/aadann_project/Register'  element={<Register />}></Route>
+      </Switch>
+      <Footer />
+      </div>
+    </div>
     </Router>
   );
 }

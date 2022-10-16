@@ -14,18 +14,17 @@ import Register from './pages/Register';
 function App() {
   return (
     <BrowserRouter>
-    <div className="App">
-    <div className='gradient__bg'>
     <Header/>
+    <div className='gradient__bg'>
+    
     < Landing />
-    <Route exact path='/' element={<Home />}></Route>
-    <Route path='/Services'  element={<Services />}></Route>
-    <Route path='/Contact'  element={<Contact />}></Route>
-    <Route path='/Blog'  element={<Blog />}></Route>
-    <Route path='/Login'  element={<Login />}></Route>
-    <Route path='/Register'  element={<Register />}></Route>
+    <Route exact path='/aadann_project/' element={<Home />}></Route>
+    <Route path='/aadann_project/Services'  element={<Services />}></Route>
+    <Route path='/aadann_project/Contact'  element={<Contact />}></Route>
+    <Route path='/aadann_project/Blog'  element={<Blog />}></Route>
+    <Route path='/aadann_project/Login'  element={<Login />}></Route>
+    <Route path='/aadann_project/Register'  element={<Register />}></Route>
     <Footer />
-    </div>
     </div>
     </BrowserRouter>
   );

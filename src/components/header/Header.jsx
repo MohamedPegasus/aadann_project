@@ -12,10 +12,10 @@ function Header ()
     const history= useNavigate();
     function logOut(){
         localStorage.clear();
-        history("/register")
+        history("/aadann_project/register")
     }
     function signin (){
-        history("/Login")
+        history("/aadann_project/Login")
     }
     function signup (){
         history("/register")

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aadann_project/static/css/main.7907d0fb.css",
-    "main.js": "/aadann_project/static/js/main.3c368d8e.js",
+    "main.js": "/aadann_project/static/js/main.4709eaaa.js",
     "static/js/787.71df535f.chunk.js": "/aadann_project/static/js/787.71df535f.chunk.js",
     "static/media/possibility.png": "/aadann_project/static/media/possibility.525f13b61a2157d44de0.png",
     "static/media/blog01.png": "/aadann_project/static/media/blog01.cefc0932eae0d33a0342.png",
@@ -16,11 +16,11 @@
     "static/media/main.jpg": "/aadann_project/static/media/main.c045b2840e954150f761.jpg",
     "index.html": "/aadann_project/index.html",
     "main.7907d0fb.css.map": "/aadann_project/static/css/main.7907d0fb.css.map",
-    "main.3c368d8e.js.map": "/aadann_project/static/js/main.3c368d8e.js.map",
+    "main.4709eaaa.js.map": "/aadann_project/static/js/main.4709eaaa.js.map",
     "787.71df535f.chunk.js.map": "/aadann_project/static/js/787.71df535f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7907d0fb.css",
-    "static/js/main.3c368d8e.js"
+    "static/js/main.4709eaaa.js"
   ]
 }

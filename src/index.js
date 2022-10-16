@@ -7,15 +7,13 @@ import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
-ReactDOM.render(
-  <React.StrictMode>
-    <HashRouter>
-    <App />
-  </HashRouter>
-  </React.StrictMode>,
-document.getElementById('root')
-  
-);
+ReactDOM.createRoot(document.getElementById('root')).render(
+   <React.StrictMode>
+     <HashRouter>
+       <App />
+     </HashRouter>
+   </React.StrictMode>
+ );
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
